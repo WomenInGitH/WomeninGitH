@@ -64,8 +64,7 @@ Nuestro propósito común: **crear un espacio donde aprender, compartir y hacer 
 
 ## 📚 Recursos recomendados
 
-- [Guía para crear tu primer repositorio en GitHub](#)  
-- [Ejemplos de proyectos sociales en GitHub](#)  
+- [Guía introductoria para subir tus proyectos a GitHub](#)  
 - [Recursos abiertos sobre Git y control de versiones](#)
 
 ---
