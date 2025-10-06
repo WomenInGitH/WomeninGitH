@@ -59,6 +59,16 @@ Si te interesa formar parte de próximas ediciones, colaborar como mentora o dif
 Mujeres en GitHub está impulsada por un grupo de mujeres con trayectoria en **análisis de datos, políticas públicas, tecnología, gestión cultural y género**.  
 Nuestro propósito común: **crear un espacio donde aprender, compartir y hacer visible el talento femenino en tecnología**.
 
+¿Quiénes forman parte de esta iniciativa?
+- [Carolina Saavedra](https://www.linkedin.com/in/carolina-saavedra-pena/)
+- [Susana Chang](https://www.linkedin.com/in/susana-chang-97697424/)
+- [Melissa Navarro](https://www.linkedin.com/in/melissanavarroreyes/)
+- [Greta Góngora](https://www.linkedin.com/in/greta-gongora/)
+- [Sarita Cusi](https://www.linkedin.com/in/sarita-cusi-a9ab59139/)
+- [Emily Saavedra](https://www.linkedin.com/in/emily-saave-dra/)
+- [Estelita Landa](https://www.linkedin.com/in/estelita-landa-oliva-43167b385/)
+- [Lesly Flores](https://www.linkedin.com/in/lesly-flores-008232114/)
+
 ---
 
 ## 📚 Recursos recomendados
@@ -71,12 +81,3 @@ Nuestro propósito común: **crear un espacio donde aprender, compartir y hacer 
 > 💬 *Mujeres en GitHub es una comunidad que crece compartiendo conocimiento.*  
 > **#MujeresEnGitHub #DebugColectiva #CienciasSociales #OpenScience #TecnologíaConPropósito**
 
-¿Quiénes forman parte de esta iniciativa?
-- [Carolina Saavedra](https://www.linkedin.com/in/carolina-saavedra-pena/)
-- [Susana Chang](https://www.linkedin.com/in/susana-chang-97697424/)
-- [Melissa Navarro](https://www.linkedin.com/in/melissanavarroreyes/)
-- [Greta Góngora](https://www.linkedin.com/in/greta-gongora/)
-- [Sarita Cusi](https://www.linkedin.com/in/sarita-cusi-a9ab59139/)
-- [Emily Saavedra](https://www.linkedin.com/in/emily-saave-dra/)
-- [Estelita Landa](https://www.linkedin.com/in/estelita-landa-oliva-43167b385/)
-- [Lesly Flores](https://www.linkedin.com/in/lesly-flores-008232114/)
