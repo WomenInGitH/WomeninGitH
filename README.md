@@ -64,7 +64,7 @@ Nuestro propósito común: **crear un espacio donde aprender, compartir y hacer 
 
 ## 📚 Recursos recomendados
 
-- [Guía introductoria para subir tus proyectos a GitHub](#)  
+- [Guía introductoria para subir tus proyectos a GitHub](https://github.com/WomenInGitH/Gu-a_Introductoria_GitHub)  
 - [Recursos abiertos sobre Git y control de versiones](#)
 
 ---
