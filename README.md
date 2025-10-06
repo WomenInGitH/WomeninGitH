@@ -73,26 +73,11 @@ Nuestro propósito común: **crear un espacio donde aprender, compartir y hacer 
 > **#MujeresEnGitHub #DebugColectiva #CienciasSociales #OpenScience #TecnologíaConPropósito**
 
 ¿Quiénes forman parte de esta iniciativa?
-- Carolina Saavedra
-- Susana Chang
-- Melissa Navarro
-- Greta Góngora
-- Sarita Cusi
-- Emily Saavedra
-- Estelita Landa
-- 👋
-
-<!--
-**WomenInGitH/WomeninGitH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Carolina Saavedra](https://www.linkedin.com/in/carolina-saavedra-pena/)
+- [Susana Chang](https://www.linkedin.com/in/susana-chang-97697424/)
+- [Melissa Navarro](https://www.linkedin.com/in/melissanavarroreyes/)
+- [Greta Góngora](https://www.linkedin.com/in/greta-gongora/)
+- [Sarita Cusi](https://www.linkedin.com/in/sarita-cusi-a9ab59139/)
+- [Emily Saavedra](https://www.linkedin.com/in/emily-saave-dra/)
+- [Estelita Landa](https://www.linkedin.com/in/estelita-landa-oliva-43167b385/)
+- [Lesly Flores](https://www.linkedin.com/in/lesly-flores-008232114/)
