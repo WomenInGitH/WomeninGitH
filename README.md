@@ -49,9 +49,8 @@ GitHub no es solo para código: también es para **documentar procesos, comparti
 
 Si te interesa formar parte de próximas ediciones, colaborar como mentora o difundir la iniciativa:
 
-- Síguenos en redes sociales: [Debug Colectiva](#)  
-- Escríbenos a: **debugcolectiva@gmail.com**  
-- O contribuye con ideas, proyectos o recursos en este repositorio 💫  
+- Síguenos en redes sociales: [Pronto](#)  
+- Escríbenos a: **womeningithub@gmail.com@gmail.com**  
 
 ---
 
